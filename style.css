@@ -1,1 +1,35 @@
-
+.honda-bg{
+    background-color: #264653;
+}
+.nav-link-honda{
+    color: white;
+    text-decoration: none;
+}
+.btn-honda {
+    color: aliceblue;
+    background-color: #E76F51;
+    text-decoration: none;
+}
+.btn-honda:hover{
+    color: white;
+}
+.hr-honda{
+    border: solid 1px;
+    width: 5%;
+    color: #E76F51;
+}
+.py-honda{
+    margin: 50px 0;
+}
+.fa-star {
+    color: #E76F51;
+}
+.fa-star-half-alt{
+    color: #E76F51;
+}
+.test-user-name-color{
+    color: #23A6F0;
+}
+.rounded-honda{
+    border-radius: 
+}
